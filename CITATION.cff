@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: If you use this fork, please cite it using these metadata and identify the
+  commit or release used. Upstream attribution is recorded in references.
+title: Conductor
+authors:
+- name: Conductor project
+repository-code: https://github.com/edithatogo/conductor-upstream-canonical
+url: https://github.com/edithatogo/conductor-upstream-canonical
+references:
+- type: software
+  title: Conductor
+  authors:
+  - name: Conductor project
+  repository-code: https://github.com/gemini-cli-extensions/conductor
+  url: https://github.com/gemini-cli-extensions/conductor
